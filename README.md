@@ -1,6 +1,6 @@
 ## FoodData Central Explore/Store in Local DB
 
-<a href="https://fdc.nal.usda.gov/index.html"><p>Source</p></a> 
+<a href="https://fdc.nal.usda.gov/index.html">Source</a> 
 
 ### Exploring the FoodData Central foods
 
@@ -14,4 +14,4 @@
 ### Data Source
 <hr/>
 
-Using the SR Legacy Foods [<a href=""><em>more info here</em></a>]
+Using the SR Legacy Foods [<a href="https://fdc.nal.usda.gov/faq.html"><em>more info here</em></a>]
