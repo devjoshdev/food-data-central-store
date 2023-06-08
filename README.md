@@ -14,4 +14,4 @@
 ### Data Source
 <hr/>
 
-Using the SR Legacy Foods [<a href="https://fdc.nal.usda.gov/faq.html"><em>more info here</em></a>]
+Using the SR Legacy Foods [<a href="https://fdc.nal.usda.gov/faq.html#q3"><em>more info here</em></a>]
